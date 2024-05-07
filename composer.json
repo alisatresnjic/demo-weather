@@ -15,5 +15,13 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "repositories": [{
+        "type": "git",
+        "url": "git@github.com:hannalackner/weather.git"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "alisatresnjic/weather": "~1.0.0"
+    }
+
 }
