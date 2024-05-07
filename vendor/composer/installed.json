@@ -1,5 +1,35 @@
 {
-    "packages": [],
+    "packages": [
+        {
+            "name": "hannalackner/weather",
+            "version": "v1.0.1",
+            "version_normalized": "1.0.1.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hannalackner/weather.git",
+                "reference": "2f85134454cc9aafc2fd74708c7b18676a3e4b76"
+            },
+            "time": "2024-05-07T07:33:31+00:00",
+            "type": "library",
+            "installation-source": "source",
+            "autoload": {
+                "psr-4": {
+                    "Hannalackner\\Weather\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Hanna Lackner",
+                    "email": "hlackner@schueler.hakzell.at"
+                }
+            ],
+            "description": "Weather",
+            "install-path": "../hannalackner/weather"
+        }
+    ],
     "dev": true,
     "dev-package-names": []
 }

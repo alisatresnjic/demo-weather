@@ -21,7 +21,7 @@
     }],
     "minimum-stability": "dev",
     "require": {
-        "alisatresnjic/weather": "~1.0.0"
+        "hannalackner/weather": "1.0.1"
     }
 
 }
