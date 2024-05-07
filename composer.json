@@ -1,0 +1,19 @@
+{
+    "name": "alisatresnjic/demo-weather",
+    "description": "Weather",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alisatresnjic\\DemoWeather\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alisatresnjic",
+            "email": "atresnjic@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
